@@ -16,3 +16,5 @@ Much easier than I expected. NOTE: I have only written the logic. All styling an
 
 **What I learned:**
 Data Attributes! Wasn't aware of this functionality. It makes this challenge much easier (although you could probably get the same result by fetching the element's innerText attribute)
+
+## Link to hosted version of this can be found on: https://pedantic-dijkstra-745069.netlify.app
